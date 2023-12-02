@@ -24,9 +24,9 @@ bugreports:
   - summary: |
       Когда выбран язык "Русский", при переходе из корзины по кнопке "Магазин", изменяется язык интерфейса на английский
     environment: |
-     Google Chrome Версия 119.0.6045.161 (Официальная сборка), (32 бит)
-    OC Windows 11 22H2
-    steps-to-reproduce: |
+      Google Chrome Версия 119.0.6045.161 (Официальная сборка), (32 бит)
+      OC Windows 11 22H2
+    steps-to-reproduce:
       - Перейти по ссылке https://products-store-git-v2bugfixes-hexlet-components.vercel.app/
       - Выбрать язык "Русский"
       - Перейти в корзину
