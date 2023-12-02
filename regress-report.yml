@@ -26,11 +26,11 @@ bugreports:
     environment: |
       Google Chrome Версия 119.0.6045.161 (Официальная сборка), (32 бит)
       OC Windows 11 22H2
-    steps-to-reproduce:
-      - Перейти по ссылке https://products-store-git-v2bugfixes-hexlet-components.vercel.app/
-      - Выбрать язык "Русский"
-      - Перейти в корзину
-      - Выйти из корзины по кнопке "Магазин"
+    steps-to-reproduce: |
+      1. Перейти по ссылке https://products-store-git-v2bugfixes-hexlet-components.vercel.app/
+      2. Выбрать язык "Русский"
+      3. Перейти в корзину
+      4. Выйти из корзины по кнопке "Магазин"
     expected-result: |
       Не изменялся язык интерфейся
     actual-result: |
