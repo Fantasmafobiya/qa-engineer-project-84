@@ -8,7 +8,7 @@ test-cases:
         Проверка фильтрации товаров в каталоге
     status: pass
 
- - summary: |
+  - summary: |
       Проверка успешного добавления товара в корзину
     status: pass
 
