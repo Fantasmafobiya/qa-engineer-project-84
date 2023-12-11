@@ -9,7 +9,7 @@ test-cases:
     status: pass
        
   - summary: |
-       Проверка успешного добавления товара в корзину
+       Проверка добавления товара в корзину
     status: pass
   
   - summary: |
@@ -17,11 +17,11 @@ test-cases:
     status: fail
   
   - summary: |
-       Успешное офрмление заказа
+       Проверка офрмления заказа
     status: fail
   
   - summary: |
-       Очистка корзины
+       Проверка очистки корзины
     status: pass
 
 bugreports:
